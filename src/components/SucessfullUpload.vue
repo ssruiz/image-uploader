@@ -16,7 +16,7 @@
     >
       <p class="text-[8px] text-gray-1 truncate col-span-8">{{ imageUrl }}</p>
       <button
-        class="bg-primary rounded-xl h-[34px] col-span-2 text-white text-center text-[8px] font-medium hover:bg-primary/90 transition"
+        class="bg-primary rounded-xl h-[34px] col-span-2 text-white text-center text-[10px] font-medium hover:bg-primary/90 transition"
         @click="handleCopy"
       >
         Copy Link
